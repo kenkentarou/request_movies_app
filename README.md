@@ -4,6 +4,9 @@
 『want movies』
 ```
 
+## 画面遷移図
+https://xd.adobe.com/view/a4fac948-5357-4221-4a70-3a386400ce96-d2cb/
+
 ## サービス概要
 
 ### コンセプト
